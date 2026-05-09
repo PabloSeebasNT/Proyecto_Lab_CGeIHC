@@ -6,17 +6,11 @@
 
 ---
 
-**EQUIPO:** ??  
+**EQUIPO:** 
 **NOMBRES COMPLETOS:**  
-- Hernández Martínez Cecilia Sayuri   
-- Mata Ramírez Andrea  
-- Mejía Alba Israel Hipólito
 - Noyola Torres Pablo Sebastian
 
 **Nºs de Cuenta:**  
-- 320313503   
-- 319052277   
-- 315348079
 - 320023213  
 
 **Grupo de Laboratorio:** 03  
