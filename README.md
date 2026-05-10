@@ -10,7 +10,7 @@
 **NOMBRES COMPLETOS:**  
 - Noyola Torres Pablo Sebastian
 
-**Nºs de Cuenta:**  
+**Nº de Cuenta:**  
 - 320023213  
 
 **Grupo de Laboratorio:** 03  
