@@ -1,0 +1,9 @@
+﻿  practica5.cpp
+C:\Users\pabsm\Documents\Octavo Semestre Ingenieria en Computación\Computación grafica\Laboratorio\P5\LabCGeiHC\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica5.cpp")
+  
+C:\Users\pabsm\Documents\Octavo Semestre Ingenieria en Computación\Computación grafica\Laboratorio\P5\LabCGeiHC\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica5.cpp")
+  
+C:\Users\pabsm\Documents\Octavo Semestre Ingenieria en Computación\Computación grafica\Laboratorio\P5\LabCGeiHC\practica5.cpp(112,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  LabCGeiHC.vcxproj -> C:\Users\pabsm\Documents\Octavo Semestre Ingenieria en Computación\Computación grafica\Laboratorio\P5\x64\Debug\LabCGeiHC.exe
